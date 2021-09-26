@@ -1,7 +1,7 @@
 {
   "name": "Dispatcher",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Dispatcher.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
@@ -42,8 +42,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "f671cabe-ee79-4242-bdf2-eebc0953f4b6",
+      "filePath": "Dispatcher.xaml",
+      "uniqueId": "d06bd037-5826-4482-9df3-df667051693a",
       "input": [],
       "output": []
     }
